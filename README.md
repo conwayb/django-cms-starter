@@ -12,3 +12,4 @@ there is nothing in local_settings.py
 only the text plugin (tinymce) is added in INSTALLED APPS
 change directory structure as you see fit
 create yourself a superuser or guess my username/password 
+go to /admin/ to play around
